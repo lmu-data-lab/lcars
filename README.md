@@ -1,6 +1,6 @@
 # LCARS-M2 <img src="man/figures/logo.png" align="right" width=160 height=160 alt="" />
 LCARS-M2 is a lightweight clinical data acquisition and management software for clinical research and other data-focused research projects. LCARS-M2 is a [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_app). This project ist based on [python](https://www.python.org/)/[django](https://www.djangoproject.com/).
 
-<font size="6"> 🚀 The source code will be published here shortly. 🚀</font>
+<font size="20"> 🚀 The source code will be published here shortly. 🚀</font>
 
 Please refer to the R version (LCARS-C) [here](https://github.com/hcstubbe/lcarsc).
