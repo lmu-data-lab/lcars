@@ -10,11 +10,11 @@ The following illustrates the user interface of the current version.
 
 <br>
 
-<img src="man/figures/user_interface.png" align="center" width="70%" alt="Overview of the user interface" />
+<img src="man/figures/user_interface.png" alt="Overview of the user interface" />
 
 ## Data model
 This figure shows an overview of the core data model.
 
 <br>
 
-<img src="man/figures/data_model_overview.png" align="center" width="70%" alt="Overview of the core data model" />
+<img src="man/figures/data_model_overview.png" alt="Overview of the core data model" />
