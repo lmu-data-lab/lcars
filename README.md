@@ -5,7 +5,7 @@ LCARS-M2 is a lightweight clinical data acquisition and management software for 
 
 Please refer to the R version (LCARS-C) [here](https://github.com/hcstubbe/lcarsc).
 
-## Interface
+## User interface
 The following illustrates the user interface of the current version.
 
 <br>
@@ -13,7 +13,7 @@ The following illustrates the user interface of the current version.
 <img src="man/figures/user_interface.png" align="center" width="70%" alt="Overview of the user interface" />
 
 ## Data model
-This figure illustrates an overview of the core data model.
+This figure shows an overview of the core data model.
 
 <br>
 
