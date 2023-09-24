@@ -7,7 +7,7 @@ Please refer to the R version (LCARS-C) [here](https://github.com/hcstubbe/lcars
 
 ## Interface
 The following illustrates the user interface of the current version.
-<img src="man/figures/user_interface" align="center" alt="Overview of the user interface" />
+<img src="man/figures/user_interface.png" align="center" alt="Overview of the user interface" />
 
 ## Data model
 This figure illustrates an overview of the core data model.
